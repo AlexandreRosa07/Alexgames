@@ -1,0 +1,64 @@
+body {
+    background: red;
+    color:white;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 47px;
+}
+
+header {
+    border-bottom: solid 2px white;
+    padding: 17px;
+    font-size: 25px;
+    color: yellow;
+}
+
+.titulo-org {
+    background: rgb(103 103 239 );
+    padding-bottom: 75px;
+    padding-top: 75px;
+    display: flex;
+    justify-content: center;
+}
+
+.marca-texto {
+    margin-right: 7%;
+}
+
+h1 {
+    font-size: 27px;
+}
+
+p {
+    font-size: 27px;
+}
+
+h2 {
+    padding: 17px
+}
+
+section {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+
+.org-videos {
+    padding-right: 17px;
+    padding-left: 17px;
+    margin-top: 70px;
+}
+
+.org-videos img {
+    opacity: 0.5;
+    height: 150px;
+}
+
+.org-videos img:hover {
+    opacity: 1.0;
+    border: solid 1px blue;
+}
+
+.org-videos h2 {
+    color:
+}
